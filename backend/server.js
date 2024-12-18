@@ -15,7 +15,7 @@ const DATA_DIR = path.join(__dirname, "data", "users");
 const LOGS_DIR = path.join(__dirname, "data", "logs");
 const INVALID_PROFILES_FILE = path.join(__dirname, "data", "invalid_profiles.json");
 const LOCK_TIME = 30 * 1000; // 30 secondes en millisecondes
-const CHECK_INTERVAL = 30000 * 10; // 30 minutes
+const CHECK_INTERVAL = 30000; // 15 minutes
 
 // Assurez-vous que les dossiers et fichiers nécessaires existent
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });

@@ -12,7 +12,7 @@ const InputForm = ({ onSubmit }) => {
     <form onSubmit={handleSubmit} style={{ marginBottom: "2rem" }}>
       <input
         type="text"
-        placeholder="Enter username"
+        placeholder="eeEnter username"
         value={username}
         onChange={(e) => setUsername(e.target.value)}
         required
