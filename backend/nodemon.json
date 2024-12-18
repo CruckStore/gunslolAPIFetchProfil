@@ -1,0 +1,7 @@
+{
+    "watch": ["package.json","server.js", "data/**/*", "routes/**/*"],
+    "ext": "js,json",
+    "ignore": ["node_modules", "logs/**/*"],
+    "exec": "node server.js"
+  }
+  

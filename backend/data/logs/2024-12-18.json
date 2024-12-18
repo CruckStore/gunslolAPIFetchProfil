@@ -1,0 +1,2681 @@
+[
+  {
+    "timestamp": "2024-12-18T01:07:13.340Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:14.976Z",
+    "message": "Re-checking invalid profile: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:15.207Z",
+    "message": "Fetching profile data for: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:17.222Z",
+    "message": "Invalid profile: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:17.282Z",
+    "message": "Profile still invalid: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:17.984Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:18.126Z",
+    "message": "Re-checking invalid profile: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:18.377Z",
+    "message": "Fetching profile data for: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:20.038Z",
+    "message": "Invalid profile: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:20.098Z",
+    "message": "Profile still invalid: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:20.762Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:20.878Z",
+    "message": "Re-checking invalid profile: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:21.112Z",
+    "message": "Fetching profile data for: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:22.465Z",
+    "message": "Profile fetch in progress: gtole",
+    "data": {
+      "username": "gtole",
+      "timeLeft": 29
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:22.640Z",
+    "message": "Profile fetch in progress: gtole",
+    "data": {
+      "username": "gtole",
+      "timeLeft": 29
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:22.666Z",
+    "message": "Invalid profile: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:22.754Z",
+    "message": "Profile still invalid: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:22.808Z",
+    "message": "Re-checking invalid profile: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:23.397Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:23.428Z",
+    "message": "Re-checking invalid profile: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:23.657Z",
+    "message": "Fetching profile data for: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:25.185Z",
+    "message": "Invalid profile: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:25.246Z",
+    "message": "Profile still invalid: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:25.891Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:26.783Z",
+    "message": "Re-checking invalid profile: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:27.006Z",
+    "message": "Fetching profile data for: gtole",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:28.408Z",
+    "message": "Invalid profile: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:28.479Z",
+    "message": "Profile still invalid: gtole",
+    "data": {
+      "username": "gtole"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:07:29.134Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:07:31.346Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:08:31.879Z",
+    "message": "Invalid request: GET /data/logs",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:08:43.575Z",
+    "message": "Invalid request: GET /data/logs",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:13.603Z",
+    "message": "Profile not found, fetching: gunslol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:13.855Z",
+    "message": "Fetching profile data for: gunslol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:20.362Z",
+    "message": "Profile data saved: gunslol",
+    "data": {
+      "username": "gunslol",
+      "data": {
+        "timestamp": "2024-12-18T01:34:13.855Z",
+        "data": {
+          "username": "N/A",
+          "views": "2,114",
+          "joinDate": "joined about 1 year ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:34:21.112Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:27.285Z",
+    "message": "Profile not found, fetching: ediz",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:27.513Z",
+    "message": "Fetching profile data for: ediz",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:29.303Z",
+    "message": "Invalid profile: ediz",
+    "data": {
+      "username": "ediz"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:34:29.364Z",
+    "message": "Error fetching new profile: ediz",
+    "data": {
+      "username": "ediz"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:34:29.989Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:33.943Z",
+    "message": "Profile not found, fetching: cruckstore",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:34.155Z",
+    "message": "Fetching profile data for: cruckstore",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:37.794Z",
+    "message": "Profile data saved: cruckstore",
+    "data": {
+      "username": "cruckstore",
+      "data": {
+        "timestamp": "2024-12-18T01:34:34.155Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:34:38.501Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:34:47.183Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:35:23.786Z",
+    "message": "Invalid request: GET /check-profile/gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:35:33.502Z",
+    "message": "Invalid request: GET /check-profile/gtol.json",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:36:23.110Z",
+    "message": "Invalid request: GET /check-profile",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:36:26.723Z",
+    "message": "Invalid request: GET /check-profile/gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:36:36.322Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:37:51.481Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:37:56.972Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:37:59.207Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:38:00.806Z",
+    "message": "Forced profile update (GET): gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:38:01.027Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:38:04.569Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:38:01.027Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:38:05.304Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:38:38.887Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:40:48.193Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:40:49.500Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:40:51.753Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:40:54.867Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.007Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.171Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.330Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.501Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.667Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.839Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:55.982Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:56.134Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:56.294Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:56.469Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:56.959Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:57.246Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:57.469Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:57.679Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:57.876Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:58.061Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:58.260Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:58.462Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:58.733Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:58.952Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:59.191Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:40:59.483Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:00.050Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:00.505Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:00.935Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:02.855Z",
+    "message": "Forced profile update (GET): gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:03.154Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:07.308Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:41:03.154Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:08.264Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:08.894Z",
+    "message": "Forced profile update (GET): gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:09.195Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:11.096Z",
+    "message": "Forced profile update (GET): gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:11.481Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:12.807Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:41:09.195Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:13.719Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:13.776Z",
+    "message": "Forced profile update (GET): gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:13.995Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:18.433Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:41:13.995Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:19.221Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:25.793Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:28.609Z",
+    "message": "Invalid request: GET /check-profile/gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:41:30.731Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:31.784Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:32.670Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:32.861Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:33.043Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:33.674Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:34.161Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:41:34.918Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:42:38.826Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:43:13.255Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:43:15.619Z",
+    "message": "Invalid request: GET /profile-history/gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:45:58.878Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:45:59.820Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 8
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:46:18.533Z",
+    "message": "Invalid request: GET /check-profile/gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:46:30.799Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:46:36.109Z",
+    "message": "Profile not found, fetching: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:46:36.331Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:46:39.740Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:46:36.331Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:46:40.437Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:46:57.628Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:47:27.632Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:47:27.849Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:47:30.870Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:47:27.849Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:47:30.946Z",
+    "message": "Automatic profile checks completed.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:47:31.536Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:47:56.898Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:47:58.101Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 2
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:01.544Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:01.756Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:05.032Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:48:01.756Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:05.092Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:05.114Z",
+    "message": "Automatic profile checks completed.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:05.750Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:08.933Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:12.195Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:14.936Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:16.826Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:18.840Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:20.366Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:25.357Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:25.837Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:26.306Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:26.732Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:26.970Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:27.192Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:27.393Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:27.594Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:27.788Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:27.996Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:28.194Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:28.570Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:29.775Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:29.979Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:30.173Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:30.372Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:30.519Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:30.767Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:30.975Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:31.178Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:31.366Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:31.581Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:31.783Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:31.968Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:32.143Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:32.353Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:32.517Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:32.714Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:32.891Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:33.096Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:33.338Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:33.519Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:33.742Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:33.936Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:34.135Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:34.343Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:34.553Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:34.761Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:34.955Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:35.148Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:35.340Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:35.525Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:35.719Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:35.754Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:35.907Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:36.025Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:36.087Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:36.289Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:36.466Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:36.643Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:36.824Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:37.023Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:37.225Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:37.406Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:37.590Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:37.774Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:37.979Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:38.164Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:38.350Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:38.542Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:38.751Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:38.925Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 3
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:38.961Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T01:48:36.025Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:39.074Z",
+    "message": "Automatic profile checks completed.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:39.120Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 4
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:39.745Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:39.824Z",
+    "message": "Profile history returned: gtol",
+    "data": {
+      "username": "gtol",
+      "historyLength": 4
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:48.306Z",
+    "message": "Re-checking invalid profile: ediz",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:48.534Z",
+    "message": "Fetching profile data for: ediz",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:50.256Z",
+    "message": "Invalid profile: ediz",
+    "data": {
+      "username": "ediz"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:50.314Z",
+    "message": "Profile still invalid: ediz",
+    "data": {
+      "username": "ediz"
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:50.934Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:53.159Z",
+    "message": "Profile not found, fetching: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:53.373Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:56.453Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:48:53.373Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:48:57.161Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:48:59.808Z",
+    "message": "Profile not found, fetching: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:00.026Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:03.079Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:49:00.026Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:03.773Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:05.273Z",
+    "message": "Profile not found, fetching: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:05.488Z",
+    "message": "Fetching profile data for: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:09.252Z",
+    "message": "Profile data saved: nsfw",
+    "data": {
+      "username": "nsfw",
+      "data": {
+        "timestamp": "2024-12-18T01:49:05.488Z",
+        "data": {
+          "username": "Porno",
+          "views": "775",
+          "joinDate": "joined 7 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:09.967Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:15.236Z",
+    "message": "Profile not found, fetching: poop",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:15.451Z",
+    "message": "Fetching profile data for: poop",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:18.203Z",
+    "message": "Profile data saved: poop",
+    "data": {
+      "username": "poop",
+      "data": {
+        "timestamp": "2024-12-18T01:49:15.451Z",
+        "data": {
+          "username": "poop",
+          "views": "280",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:18.939Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:20.135Z",
+    "message": "Profile history returned: poop",
+    "data": {
+      "username": "poop",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:21.363Z",
+    "message": "Profile history returned: poop",
+    "data": {
+      "username": "poop",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:21.519Z",
+    "message": "Profile history returned: poop",
+    "data": {
+      "username": "poop",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:21.702Z",
+    "message": "Profile history returned: poop",
+    "data": {
+      "username": "poop",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:21.883Z",
+    "message": "Profile history returned: poop",
+    "data": {
+      "username": "poop",
+      "historyLength": 1
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:48.942Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:49.225Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:49.238Z",
+    "message": "Fetching profile data for: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:49:52.404Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:49:49.225Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:49:53.294Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:50:23.297Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:50:23.553Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:50:23.564Z",
+    "message": "Fetching profile data for: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:50:26.517Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:50:23.553Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:50:27.358Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:50:39.708Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:00.275Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:19.858Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:24.864Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:25.114Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:25.130Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:27.775Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:51:25.130Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:51:28.587Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:33.590Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:33.843Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:33.858Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:37.658Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:51:33.858Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:51:37.766Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:51:33.843Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:51:38.360Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:42.827Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:52.824Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:53.094Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:53.106Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:51:56.179Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:51:53.106Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:51:57.225Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:07.221Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:07.491Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:07.511Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:10.160Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:52:07.491Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:52:11.075Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:21.083Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:21.328Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:21.347Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:24.044Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:52:21.347Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:52:24.820Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:34.818Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:35.085Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:35.095Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:37.618Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:47.619Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:47.857Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:52:51.080Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:52:47.857Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:52:51.805Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:53:01.807Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:53:02.039Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:53:05.182Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:53:02.039Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:53:05.959Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:53:13.395Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:53:15.761Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:53:25.769Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:54:03.432Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:54:04.672Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:54:14.677Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:55:09.634Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:55:19.634Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:05.321Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:08.725Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:11.954Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:41.961Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:42.211Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:42.217Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:56:45.040Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:56:42.217Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:56:45.841Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:15.841Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:16.099Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:16.109Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:19.666Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T01:57:16.099Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:57:19.691Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:57:16.109Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:57:20.417Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:50.414Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:50.657Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:50.681Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:57:53.718Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T01:57:50.681Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T01:57:54.502Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:58:08.340Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T01:58:31.074Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:02.272Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:07.840Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:36.404Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:39.411Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:39.635Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:42.422Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:42.721Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:42.879Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T02:00:39.635Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:00:43.625Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:46.637Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:46.848Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:00:49.704Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:01:19.708Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:01:19.911Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:01:21.980Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T02:01:19.911Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:01:22.666Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:01:37.699Z",
+    "message": "Server started on port 5050",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:07.699Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:07.922Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:10.906Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T02:02:07.922Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:11.163Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:13.364Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T02:02:11.163Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:13.649Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:17.148Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T02:02:13.649Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:17.411Z",
+    "message": "Fetching profile data for: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:20.919Z",
+    "message": "Profile data saved: nsfw",
+    "data": {
+      "username": "nsfw",
+      "data": {
+        "timestamp": "2024-12-18T02:02:17.411Z",
+        "data": {
+          "username": "Porno",
+          "views": "775",
+          "joinDate": "joined 7 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:21.173Z",
+    "message": "Fetching profile data for: poop",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:24.015Z",
+    "message": "Profile data saved: poop",
+    "data": {
+      "username": "poop",
+      "data": {
+        "timestamp": "2024-12-18T02:02:21.173Z",
+        "data": {
+          "username": "poop",
+          "views": "280",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:24.068Z",
+    "message": "Automatic profile checks completed.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:37.701Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:37.894Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:40.973Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T02:02:37.894Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:41.233Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:44.241Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T02:02:41.233Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:44.507Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:47.764Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T02:02:44.507Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:48.039Z",
+    "message": "Fetching profile data for: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:51.618Z",
+    "message": "Profile data saved: nsfw",
+    "data": {
+      "username": "nsfw",
+      "data": {
+        "timestamp": "2024-12-18T02:02:48.039Z",
+        "data": {
+          "username": "Porno",
+          "views": "775",
+          "joinDate": "joined 7 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:51.901Z",
+    "message": "Fetching profile data for: poop",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:02:54.556Z",
+    "message": "Profile data saved: poop",
+    "data": {
+      "username": "poop",
+      "data": {
+        "timestamp": "2024-12-18T02:02:51.901Z",
+        "data": {
+          "username": "poop",
+          "views": "280",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:02:54.612Z",
+    "message": "Automatic profile checks completed.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:07.704Z",
+    "message": "Starting automatic profile checks.",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:07.916Z",
+    "message": "Fetching profile data for: d",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:10.413Z",
+    "message": "Profile data saved: d",
+    "data": {
+      "username": "d",
+      "data": {
+        "timestamp": "2024-12-18T02:03:07.915Z",
+        "data": {
+          "username": "vl",
+          "views": "4,826",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:03:10.680Z",
+    "message": "Fetching profile data for: e",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:14.290Z",
+    "message": "Profile data saved: e",
+    "data": {
+      "username": "e",
+      "data": {
+        "timestamp": "2024-12-18T02:03:10.680Z",
+        "data": {
+          "username": "xei",
+          "views": "N/A",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:03:14.557Z",
+    "message": "Fetching profile data for: gtol",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:18.360Z",
+    "message": "Profile data saved: gtol",
+    "data": {
+      "username": "gtol",
+      "data": {
+        "timestamp": "2024-12-18T02:03:14.557Z",
+        "data": {
+          "username": "Gtol",
+          "views": "10,132",
+          "joinDate": "joined 10 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:03:18.672Z",
+    "message": "Fetching profile data for: nsfw",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:22.210Z",
+    "message": "Profile data saved: nsfw",
+    "data": {
+      "username": "nsfw",
+      "data": {
+        "timestamp": "2024-12-18T02:03:18.672Z",
+        "data": {
+          "username": "Porno",
+          "views": "775",
+          "joinDate": "joined 7 months ago"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:03:22.490Z",
+    "message": "Fetching profile data for: poop",
+    "data": {}
+  },
+  {
+    "timestamp": "2024-12-18T02:03:25.220Z",
+    "message": "Profile data saved: poop",
+    "data": {
+      "username": "poop",
+      "data": {
+        "timestamp": "2024-12-18T02:03:22.490Z",
+        "data": {
+          "username": "poop",
+          "views": "280",
+          "joinDate": "N/A"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-12-18T02:03:25.278Z",
+    "message": "Automatic profile checks completed.",
+    "data": {}
+  }
+]
