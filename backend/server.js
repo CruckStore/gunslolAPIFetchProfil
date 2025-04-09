@@ -10,32 +10,27 @@ const PORT = 5050;
 app.use(cors());
 app.use(express.json());
 
-// Chemins des dossiers et fichiers
 const DATA_DIR = path.join(__dirname, "data", "users");
 const LOGS_DIR = path.join(__dirname, "data", "logs");
 const INVALID_PROFILES_FILE = path.join(__dirname, "data", "invalid_profiles.json");
-const LOCK_TIME = 30 * 1000; // 30 secondes en millisecondes
-const CHECK_INTERVAL = 30000; // 15 minutes
+const LOCK_TIME = 30 * 1000;
+const CHECK_INTERVAL = 30000;
 
-// Assurez-vous que les dossiers et fichiers nécessaires existent
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 if (!fs.existsSync(LOGS_DIR)) fs.mkdirSync(LOGS_DIR, { recursive: true });
 if (!fs.existsSync(INVALID_PROFILES_FILE)) fs.writeFileSync(INVALID_PROFILES_FILE, JSON.stringify([]));
 
-// Map pour suivre les fetchs en cours et les profils invalides
 const fetchInProgress = new Map();
 const invalidProfiles = new Map(
   JSON.parse(fs.readFileSync(INVALID_PROFILES_FILE, "utf-8")).map((p) => [p.username, p])
 );
 
-// Sauvegarder les profils invalides
 const saveInvalidProfiles = () => {
   fs.writeFileSync(INVALID_PROFILES_FILE, JSON.stringify([...invalidProfiles.values()], null, 2));
 };
 
-// Fonction pour écrire des logs
 const writeLog = (message, data = {}) => {
-  const today = new Date().toISOString().split("T")[0]; // Format YYYY-MM-DD
+  const today = new Date().toISOString().split("T")[0];
   const logFilePath = path.join(LOGS_DIR, `${today}.json`);
 
   const logEntry = {
@@ -53,7 +48,6 @@ const writeLog = (message, data = {}) => {
   }
 };
 
-// Fonction pour récupérer les données d'un profil
 const fetchProfileData = async (username) => {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
@@ -114,8 +108,8 @@ const checkAllProfiles = async () => {
 
   console.log(`📊 Total de profils à vérifier : ${totalUsers}`);
 
-  let profilesChecked = 0; // Compteur de profils vérifiés
-  let startTime = Date.now(); // Temps de démarrage pour calculer l'average
+  let profilesChecked = 0;
+  let startTime = Date.now();
 
   const checkGroup = async (group) => {
     for (const file of group) {
@@ -123,14 +117,14 @@ const checkAllProfiles = async () => {
       console.log(`🔄 Vérification du profil : ${username}`);
 
       const groupStartTime = Date.now();
-      await fetchProfileData(username); // Vérification du profil
+      await fetchProfileData(username);
       const groupEndTime = Date.now();
 
       profilesChecked++;
-      const elapsedTime = (groupEndTime - startTime) / 1000; // Temps écoulé en secondes
-      const averageTimePerProfile = elapsedTime / profilesChecked; // Moyenne en secondes par profil
-      const profilesRemaining = totalUsers - profilesChecked; // Profils restants
-      const estimatedTimeRemaining = Math.ceil(profilesRemaining * averageTimePerProfile); // Temps restant estimé
+      const elapsedTime = (groupEndTime - startTime) / 1000;
+      const averageTimePerProfile = elapsedTime / profilesChecked;
+      const profilesRemaining = totalUsers - profilesChecked;
+      const estimatedTimeRemaining = Math.ceil(profilesRemaining * averageTimePerProfile);
 
       console.log(`✅ Profil vérifié : ${username}`);
       console.log(`📈 Temps moyen par profil : ${averageTimePerProfile.toFixed(2)} secondes.`);
@@ -138,28 +132,24 @@ const checkAllProfiles = async () => {
     }
   };
 
-  // Découper les utilisateurs en groupes de 2 profils
   const batchSize = 2;
   for (let i = 0; i < userFiles.length; i += batchSize) {
-    const group = userFiles.slice(i, i + batchSize); // Sélectionner un groupe de 2 profils
-    await checkGroup(group); // Vérifier ce groupe
+    const group = userFiles.slice(i, i + batchSize);
+    await checkGroup(group);
   }
 
-  const totalElapsedTime = (Date.now() - startTime) / 1000; // Temps total écoulé en secondes
+  const totalElapsedTime = (Date.now() - startTime) / 1000;
   console.log("✅ Vérification automatique terminée.");
   console.log(`⏱️ Temps total : ${totalElapsedTime.toFixed(2)} secondes.`);
   writeLog("Automatic profile checks completed.");
 };
 
-// Planification de la vérification automatique
 setInterval(checkAllProfiles, CHECK_INTERVAL);
 
-// Route pour vérifier ou créer un profil
 app.get("/profile-history/:username", async (req, res) => {
   const { username } = req.params;
   const filePath = path.join(DATA_DIR, `${username}.json`);
 
-  // Vérifier si un fetch est déjà en cours
   if (fetchInProgress.has(username)) {
     const timeLeft = Math.ceil((LOCK_TIME - (Date.now() - fetchInProgress.get(username))) / 1000);
     writeLog(`Profile fetch in progress: ${username}`, { username, timeLeft });
@@ -168,7 +158,6 @@ app.get("/profile-history/:username", async (req, res) => {
     });
   }
 
-  // Re-vérifier un profil marqué comme invalide
   if (invalidProfiles.has(username)) {
     writeLog(`Re-checking invalid profile: ${username}`);
     console.log(`🔄 Re-checking invalid profile '${username}'...`);
@@ -190,8 +179,7 @@ app.get("/profile-history/:username", async (req, res) => {
       return res.json([result]);
     }
   }
-
-  // Si le fichier n'existe pas, fetch le profil
+  
   if (!fs.existsSync(filePath)) {
     writeLog(`Profile not found, fetching: ${username}`);
     console.log(`Profil '${username}' introuvable. Création en cours...`);
@@ -208,13 +196,11 @@ app.get("/profile-history/:username", async (req, res) => {
     return res.json([result]);
   }
 
-  // Retourner l'historique existant
   const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
   writeLog(`Profile history returned: ${username}`, { username, historyLength: data.length });
   res.json(data);
 });
 
-// Middleware pour les routes invalides
 app.use((req, res) => {
   writeLog(`Invalid request: ${req.method} ${req.url}`);
   res.status(404).json({
@@ -223,7 +209,6 @@ app.use((req, res) => {
   });
 });
 
-// Démarrage du serveur
 app.listen(PORT, () => {
   writeLog(`Server started on port ${PORT}`);
   console.log(`✅ Serveur démarré sur http://localhost:${PORT}`);
